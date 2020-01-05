@@ -1,5 +1,4 @@
-school class
-end
+class school
 
 def initialize add_student
   @add_student = add_student
